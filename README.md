@@ -1,6 +1,6 @@
 Toby Kurniawan
 
-Sorry about the merge conflicts - I made a mistake earlier. Basic run down of rebase commands:
+Sorry about the merge conflicts - I made a mistake earlier. Accidently used the wrong base as the rebase branch at first. Anyways, basic run down of rebase commands:
 
 1) First checkout the feature branch (aka develop)
 2) Rebase against the 'rebase' branch
